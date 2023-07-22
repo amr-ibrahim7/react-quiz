@@ -1,4 +1,4 @@
-:root {
+/* :root {
   --color-darkest: #343a40;
   --color-dark: #495057;
   --color-medium: #ced4da;
@@ -239,11 +239,11 @@ progress {
   80% {
     background-position: 0% 50%, 50% 50%, 100% 100%;
   }
-}
+} */
 
 /* ********** */
 /* First counter example */
-.counter {
+/* .counter {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -256,4 +256,9 @@ progress {
 .counter * {
   font-size: inherit;
   padding: 0.8rem;
+} */
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
 }
