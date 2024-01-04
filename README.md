@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# React Quiz
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Running Application :
 
-## Available Scripts
+run server data first
+`npm run server` on port 4000
 
-In the project directory, you can run:
+run app
+`npm start`
 
-### `npm start`
+Test your knowledge of the React library with this interactive quiz web app, built using React and Context API. This engaging quiz challenges you with a variety of questions covering fundamental React concepts, components, and techniques.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- ✅Interactive Quiz: Engage with an interactive quiz featuring multiple-choice questions that assess your understanding of React.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ✅React Concept Coverage: Explore a range of React concepts, including components, props, state, JSX, and more.
 
-### `npm run build`
+- ✅Context API Integration: Experience the power of Context API by managing quiz state across components in a seamless manner.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ✅User-Friendly Interface: Enjoy a user-friendly interface that guides you through the quiz effortlessly, providing feedback and explanations along the way.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- ✅Responsive Design: Access the React quiz web app from any device, as it adapts seamlessly to different screen sizes and resolutions.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+### Technology Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Frontend: React (JavaScript library for building user interfaces)
+- State Management: React Context API (library for managing application state)
+- CSS: CSS3 (stylesheet language for styling HTML content)
+- JavaScript: ES6+ (latest version of JavaScript)
+- Question Data: Any preferred data fetching library, such as Axios or Fetch API
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This React quiz web app is designed for developers who want to test and enhance their knowledge of the React library. Whether you're a beginner learning the basics or an experienced developer seeking a refresher, this quiz is a valuable tool for self-assessment and skill improvement.
